@@ -1,3 +1,13 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/dgrha78/mend-hidden-spec-cli/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/dgrha78/mend-hidden-spec-cli/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
+# mend: one patch tool for every AI edit format
+
+mend applies the edits AI models write, in all four formats (unified diffs, SEARCH/REPLACE blocks, V4A patches and JSON edits), with three-tier line matching. It scores 100 of 100 on the public practice checks. Run it as `node main.ts [options] [PATCH]`. This entry competes in the [make.fun mend bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122).
+
+---
+
 # mend: the starter
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
